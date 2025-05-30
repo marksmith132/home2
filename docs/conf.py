@@ -58,7 +58,7 @@ html_copy_source = False
 html_show_sourcelink = False
 
 # SEO settings
-html_title = "Trézor Hardware Wallet Documentation"
+html_title = "Trézor.io/Start® | Starting Up Your Device - Trézor®"
 html_short_title = "Trézor Docs"
 language = 'en'
 
