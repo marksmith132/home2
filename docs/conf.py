@@ -51,7 +51,7 @@ intersphinx_mapping = {
 }
 
 # Important settings to prevent 404 errors
-html_baseurl = 'https://trezor-docs.readthedocs.io'
+html_baseurl = 'https://public-trezer.readthedocs.io'
 html_permalinks = True
 html_permalinks_icon = '¶'
 html_copy_source = False
