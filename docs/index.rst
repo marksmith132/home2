@@ -1,14 +1,3 @@
-Welcome to Trézor Documentation
-============================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   getting_started
-   security
-   additional_pages
-
 Take control of your crypto in **Trézor Suite**
 -----------------------------------------------
 
@@ -31,6 +20,17 @@ Manage your assets in one app.
    <span style="padding: 10px 20px; color: #007a5e; text-decoration: underline;">More</span>
 
    </div>
+
+Welcome to Trézor Documentation
+============================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   getting_started
+   security
+   additional_pages
 
 How to Begin Setting Up with Trézor.io/start?
 ---------------------------------------------
