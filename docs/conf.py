@@ -61,3 +61,10 @@ html_show_sourcelink = False
 html_title = "Trézor Hardware Wallet Documentation"
 html_short_title = "Trézor Docs"
 language = 'en'
+
+# Meta tags for SEO
+html_meta = {
+    'description': 'Official documentation for Trézor hardware wallets, covering setup, security, and advanced features.',
+    'keywords': 'Trézor, hardware wallet',
+}
+
